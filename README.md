@@ -1,4 +1,4 @@
-- 👋 - I’m @vinkcode
+- 👋  I’m @vinkcode
 - 👀&nbps;&nbps;Checkout my codepen https://codepen.io/vinking/
 - 🌱&nbps;&nbps;I’m currently learning from frontendmasters.com
 - 💞️&nbps;&nbps;I’m looking to collaborate on cool stuff
