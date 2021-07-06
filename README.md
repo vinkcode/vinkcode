@@ -1,6 +1,6 @@
 - 👋  I’m @vinkcode
 - 👀  Checkout my codepen https://codepen.io/vinking/
-- 🌱  I’m currently learning from frontendmasters.com
+- 🌱  I’m currently learning from frontendmasters.com &amp; trailhead.salesforce.com
 - 💞️  I’m looking to collaborate on cool stuff
 - 📫  How to reach me www.andrevink.com
 
